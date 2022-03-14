@@ -1,4 +1,6 @@
-# tugas_navigasi
+# Kuis Prak TPM
+Nama  : Maulana Irsyad Muhammad
+NIM   : 123190119
 
 A new Flutter project.
 
